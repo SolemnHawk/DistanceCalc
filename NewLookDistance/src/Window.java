@@ -79,7 +79,6 @@ public class Window {
                 else if(!textfieldCity.getText().isEmpty()) {
                     query = textfieldCity.getText();
                     queryEdit=query.replaceAll("\\s","");
-                    System.out.println(query);
                     results=view.getDistance(queryEdit);
                     result.setText(query+" "+results);
                     textfieldCity.setText("");

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NewLookDistance">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/out/artifacts/NewLookDistance_jar/NewLookDistance.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/jackson-mapper-asl-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/client-runtime-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/org.json-ld-2.11.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/log4j-1.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/jquery-1.11.3.bv1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/vdsm-jsonrpc-java-client-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/jsonunicode-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/ec.base-2.11.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/servlet-api-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/shared-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/jackson-core-asl-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/java-json-0.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/logkit-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/avalon-framework-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/json-20190722.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/jquery-1.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewLookDistance/lib/html-5.0.bv6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
