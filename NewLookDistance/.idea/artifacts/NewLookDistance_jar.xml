@@ -1,9 +1,9 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="NewLookDistance:jar">
+  <artifact type="jar" build-on-make="true" name="NewLookDistance:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/NewLookDistance_jar</output-path>
     <root id="archive" name="NewLookDistance.jar">
       <element id="module-output" name="NewLookDistance" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/NewLookDistance_jar/NewLookDistance.jar" path-in-jar="/" />
+      <element id="library" level="project" name="NewLookDistance" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.9.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/client-runtime-3.3.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.json-ld-2.11.7.jar" path-in-jar="/" />
