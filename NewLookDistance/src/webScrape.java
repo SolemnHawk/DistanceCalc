@@ -10,7 +10,7 @@ import java.text.DecimalFormat;
 public class webScrape {
     String cityName;
     String stateName;
-    String[] businessAddress = {"516BedfordStreetEastBridgewater,Ma", "Dedham,MA", "Providence,RI", "Plymouth,Ma"};
+    String[] businessAddress = {"EastBridgewater,Ma", "Dedham,MA", "Providence,RI", "Plymouth,Ma"};
     String[] businessLocale = {" from Here", " from Scott", " from Sam", " from Plymouth"};
     String[] distances = new String[businessAddress.length];
     String urlLink1 = "";
